@@ -22,7 +22,7 @@ This project works as a personal wallet, where the user can enter their profits 
    
 
    ```
-   git clone ttps://github.com/rafaelcastan/dtmoney.git
+   git clone https://github.com/rafaelcastan/dtmoney.git
    ```
 
    
